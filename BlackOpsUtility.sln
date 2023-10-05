@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackOpsUtility", "BlackOpsUtility\BlackOpsUtility.csproj", "{5CEE5CD3-5128-4AF7-9E0D-A3B8E7ABE816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEE5CD3-5128-4AF7-9E0D-A3B8E7ABE816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEE5CD3-5128-4AF7-9E0D-A3B8E7ABE816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEE5CD3-5128-4AF7-9E0D-A3B8E7ABE816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEE5CD3-5128-4AF7-9E0D-A3B8E7ABE816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9447CA-BA47-4BFF-8A49-494B5EE176E6}
+	EndGlobalSection
+EndGlobal
